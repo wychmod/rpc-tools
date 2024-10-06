@@ -1,4 +1,4 @@
-package io.wychmod.rpc.annotation;
+package com.wychmod.rpc.annotation;
 
 import org.springframework.stereotype.Component;
 
