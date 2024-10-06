@@ -10,7 +10,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>rpc-annotation</module>
-        <module>rpc-annotation</module>
     </modules>
 
     <properties>
