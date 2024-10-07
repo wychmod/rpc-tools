@@ -11,6 +11,8 @@
     <modules>
         <module>rpc-annotation</module>
         <module>rpc-common</module>
+        <module>rpc-test</module>
+        <module>rpc-test/rpc-test-scanner</module>
     </modules>
 
     <properties>
