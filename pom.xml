@@ -13,6 +13,9 @@
         <module>rpc-common</module>
         <module>rpc-test</module>
         <module>rpc-test/rpc-test-scanner</module>
+        <module>rpc-provider</module>
+        <module>rpc-provider/rpc-provider-common</module>
+        <module>rpc-provider/rpc-provider-native</module>
     </modules>
 
     <properties>
