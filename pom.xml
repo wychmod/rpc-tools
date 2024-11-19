@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>rpc-advanced</module>
+        <module>netty-example</module>
     </modules>
 
     <properties>
