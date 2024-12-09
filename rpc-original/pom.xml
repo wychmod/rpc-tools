@@ -5,18 +5,17 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.wychmod.rpc</groupId>
-        <artifactId>rpc-advanced</artifactId>
+        <artifactId>rpc-tools</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>rpc-common</artifactId>
+    <groupId>com.wychmod</groupId>
+    <artifactId>rpc-original</artifactId>
 
-    <dependencies>
-        <dependency>
-            <groupId>com.wychmod.rpc</groupId>
-            <artifactId>rpc-annotation</artifactId>
-            <version>${project.version}</version>
-        </dependency>
-    </dependencies>
+    <properties>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
 
 </project>

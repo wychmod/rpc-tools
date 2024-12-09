@@ -11,6 +11,7 @@
     <modules>
         <module>rpc-advanced</module>
         <module>netty-example</module>
+        <module>rpc-original</module>
     </modules>
 
     <properties>
